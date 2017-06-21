@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1888-48AF
+
+ Directory of C:\Users\Administrator\Desktop\github
+
+06/21/2017  11:54 PM    <DIR>          .
+06/21/2017  11:54 PM    <DIR>          ..
+06/21/2017  11:54 PM                 0 tools.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  89,042,292,736 bytes free
